@@ -1,10 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 产品编码 文档的项目名称
+   :caption: MD0835-16路双电平串口模块
 
    README.md
-   docs/单品模板
+   docs/MD0835-16路双电平串口模块
 
 
 
